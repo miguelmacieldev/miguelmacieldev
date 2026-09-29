@@ -1,4 +1,4 @@
-# Hi there, I'm Miguel Maciel 👋
+# Hi there, I'm Miguel Maciel 
 
 <p align="center">
   <a href="https://git.io/typing-svg">
