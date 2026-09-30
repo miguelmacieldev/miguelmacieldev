@@ -61,7 +61,7 @@
 ---
 
 <!-- ANALYTICS -->
-<h3 align="center">📊 GitHub Analytics</h3>
+### 📊 GitHub Analytics</h3>
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=miguelmacieldev&theme=tokyonight&background=0d1117&fire=00b4d8&ring=00b4d8&stroke=1f2937&currStreakNum=00f5d4&sideNums=ffffff&sideTitle=00b4d8&dates=8d99ae&hide_border=false&border=0077b6" />
