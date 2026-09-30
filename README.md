@@ -58,18 +58,5 @@
   <a href="mailto:miguelmaciellimadasilva@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" height="28" /></a>
 </p>
 
----
 
-<!-- ANALYTICS -->
-### 📊 GitHub Analytics</h3>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=miguelmacieldev&theme=tokyonight&background=0d1117&fire=00b4d8&ring=00b4d8&stroke=1f2937&currStreakNum=00f5d4&sideNums=ffffff&sideTitle=00b4d8&dates=8d99ae&hide_border=false&border=0077b6" />
-</p>
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=miguelmacieldev&show_icons=true&bg_color=0d1117&title_color=00b4d8&text_color=ffffff&icon_color=00f5d4&border_color=0077b6&hide_border=false&count_private=true" />
-  &nbsp;&nbsp;
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=miguelmacieldev&layout=compact&bg_color=0d1117&title_color=00b4d8&text_color=ffffff&border_color=0077b6&hide_border=false" />
-</p>
 
