@@ -1,7 +1,10 @@
+<!-- HEADER -->
+<h1 align="center">Hi 👋 I'm Miguel Maciel</h1>
+
 <!-- TYPING ANIMATION -->
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=FFFFFF&center=true&vcenter=true&width=500&lines=Computer+Science+Student;Software+Developer;Welcome+to+my+profile." alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=FFFFFF&center=true&vcenter=true&width=500&lines=Computer+Science+Student;Software+Developer" alt="Typing SVG" />
   </a>
 </p>
 
@@ -54,3 +57,19 @@
   &nbsp;&nbsp;
   <a href="mailto:miguelmaciellimadasilva@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" height="28" /></a>
 </p>
+
+---
+
+<!-- ANALYTICS -->
+### 📊 GitHub Analytics</h3>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=miguelmacieldev&theme=dark&background=0d1117&fire=ff0000&ring=ff0000&stroke=333333&currStreakNum=ff0000&sideNums=ffffff&sideTitle=ff0000&dates=aaaaaa&hide_border=false&border=333333" />
+</p>
+
+<p align="center">
+  <img height="150" src="https://github-readme-stats.vercel.app/api?username=miguelmacieldev&show_icons=true&bg_color=0d1117&title_color=ff0000&text_color=ffffff&icon_color=ff0000&border_color=333333&hide_border=false&count_private=true" />
+  &nbsp;&nbsp;
+  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=miguelmacieldev&layout=compact&bg_color=0d1117&title_color=ff0000&text_color=ffffff&border_color=333333&hide_border=false" />
+</p>
+
