@@ -34,4 +34,4 @@
 
 ---
 
-*⚡ "Construindo meu caminho através de aprendizado, dedicação e código."*
+*⚡*
