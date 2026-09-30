@@ -1,10 +1,10 @@
 <!-- HEADER -->
 <h1 align="center">Hi 👋 I'm Miguel Maciel</h1>
 
-<!-- TYPING ANIMATION -->
+<!-- TYPING ANIMATION - AZUL SAFIRA -->
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=FFFFFF&center=true&vcenter=true&width=500&lines=Computer+Science+Student;Software+Developer" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=3B82F6&center=true&vcenter=true&width=500&lines=Computer+Science+Student;Software+Developer" alt="Typing SVG" />
   </a>
 </p>
 
