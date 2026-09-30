@@ -11,7 +11,7 @@
 ---
 
 <!-- MY DAILY DRIVER -->
-## 🟪 My daily driver
+## 🟦 My daily driver
 
 <p align="center">
   <a href="https://skillicons.dev">
@@ -22,7 +22,7 @@
 ---
 
 <!-- TECH STACK BADGES -->
-## 🟪 Tech Stack
+## 🟦 Tech Stack
 
 <p align="center">
   <img src="https://img.shields.io/badge/TYPESCRIPT-007ACC?style=for-the-badge&logo=typescript&logoColor=white" height="26" />
@@ -38,7 +38,7 @@
 ---
 
 <!-- LANGUAGES & TOOLS -->
-## 🟪 Languages & Tools I Have Placed My Hands On
+## 🟦 Languages & Tools I Have Placed My Hands On
 
 <p align="center">
   <a href="https://skillicons.dev">
