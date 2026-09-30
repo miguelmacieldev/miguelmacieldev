@@ -61,15 +61,15 @@
 ---
 
 <!-- ANALYTICS -->
-### 📊 GitHub Analytics</h3>
+<h3 align="center">📊 GitHub Analytics</h3>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=miguelmacieldev&theme=dark&background=0d1117&fire=ff0000&ring=ff0000&stroke=333333&currStreakNum=ff0000&sideNums=ffffff&sideTitle=ff0000&dates=aaaaaa&hide_border=false&border=333333" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=miguelmacieldev&theme=tokyonight&background=0d1117&fire=00b4d8&ring=00b4d8&stroke=1f2937&currStreakNum=00f5d4&sideNums=ffffff&sideTitle=00b4d8&dates=8d99ae&hide_border=false&border=0077b6" />
 </p>
 
 <p align="center">
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=miguelmacieldev&show_icons=true&bg_color=0d1117&title_color=ff0000&text_color=ffffff&icon_color=ff0000&border_color=333333&hide_border=false&count_private=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=miguelmacieldev&show_icons=true&bg_color=0d1117&title_color=00b4d8&text_color=ffffff&icon_color=00f5d4&border_color=0077b6&hide_border=false&count_private=true" />
   &nbsp;&nbsp;
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=miguelmacieldev&layout=compact&bg_color=0d1117&title_color=ff0000&text_color=ffffff&border_color=333333&hide_border=false" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=miguelmacieldev&layout=compact&bg_color=0d1117&title_color=00b4d8&text_color=ffffff&border_color=0077b6&hide_border=false" />
 </p>
 
