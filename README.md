@@ -1,5 +1,5 @@
 <!-- HEADER -->
-<h1 align="center">Hi 👋 I'm Miguel Maciel</h1>
+<h1 align="center">Olá 👋 Eu sou Miguel Maciel</h1>
 
 <!-- TYPING ANIMATION - AZUL SAFIRA -->
 <p align="center">
