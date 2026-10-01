@@ -11,7 +11,7 @@
 ---
 
 <!-- MY DAILY DRIVER -->
-## 🟦 My daily driver
+## 💻 Uso no dia a dia
 
 <p align="center">
   <a href="https://skillicons.dev">
@@ -22,7 +22,7 @@
 ---
 
 <!-- TECH STACK BADGES -->
-## 🟦 Tech Stack
+## 🚀 Linguagens e Frameworks
 
 <p align="center">
   <img src="https://img.shields.io/badge/TYPESCRIPT-007ACC?style=for-the-badge&logo=typescript&logoColor=white" height="26" />
@@ -38,7 +38,7 @@
 ---
 
 <!-- LANGUAGES & TOOLS -->
-## 🟦 Languages & Tools I Have Placed My Hands On
+## 🛠️ Conhecimentos e Ferramentas
 
 <p align="center">
   <a href="https://skillicons.dev">
@@ -50,7 +50,7 @@
 ---
 
 <!-- CONNECT -->
-### 📬 Connect
+### 📬 Contato
 
 <p align="left">
   <a href="https://www.linkedin.com/in/miguel-maciel-lima-da-silva-937247302" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="28" /></a>
